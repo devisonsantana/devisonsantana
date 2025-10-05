@@ -30,7 +30,8 @@ Sou apaixonado por **programação**, **novos desafios** e por tudo que envolve 
 
 Você pode me encontrar por aqui mesmo no GitHub ou em outras redes:
 
-- [LinkedIn](https://www.linkedin.com/in/santdevy/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santdevy/)
+
 <!-- - [Pagina de portifólio](xxx) -->
 
 ---

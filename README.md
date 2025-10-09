@@ -61,3 +61,8 @@ Você pode me encontrar por aqui mesmo no GitHub ou em outras redes:
 ![GitHub Streak](https://streak-stats.demolab.com?user=devisonsantana&theme=aura&hide_border=true&locale=pt_BR&card_width=500&short_numbers=true&date_format=%5BY%20%5DM%20j)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devisonsantana&layout=compact&theme=aura&card_width=500&hide_border=true)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devisonsantana&repo=avatar-airbender-web-django&theme=aura&show_owner=false&hide_border=true&description_lines_count=2)](https://github.com/devisonsantana/avatar-airbender-web-django)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devisonsantana&repo=minimal-api&theme=aura&show_owner=false&hide_border=true&description_lines_count=2)](https://github.com/devisonsantana/minimal-api)
+
+<!-- More Readme Cards -->
